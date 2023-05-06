@@ -15,4 +15,8 @@
 ![img-readme2](https://user-images.githubusercontent.com/118061068/236634853-01f08060-a61d-4c1e-aebf-0c5de3373de4.png)
 ![img-readme3](https://user-images.githubusercontent.com/118061068/236634854-d4251429-aa4d-405e-bad9-f10cf8cba6ba.png)
 
+As imagens utilizadas neste projeto são gratuitas e foram retiradas do site: https://www.pexels.com/pt-br/
+
+
+
 
